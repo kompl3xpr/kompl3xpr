@@ -5,16 +5,16 @@
 # `me.about`
 ```rust
 <GitHubProfile as Profile>::show(ctx, models::AboutMe {
-    username: String::new("kompl3xpr"),
-    age: Utc::now().year() - 2001,
-    description: "🚀 Back-End Developer | 📚 Learning Software Testing",
-    company: find_job().await.unwrap(),
+  username: String::new("kompl3xpr"),
+  age: Utc::now().year() - 2001,
+  description: "🚀 Back-End Developer | 📚 Learning Software Testing",
+  company: find_job().await.unwrap(),
 
-    skill_proficiency: HashMap::from_iter([
-        (Level::Expert,     vec!["rs", "py"]),
-        (Level::Proficient, vec!["c", "cpp", "ts"]),
-        (Level::Familiar,   vec!["go", "java", "kt", "sql"]),
-    ])
+  skill_proficiency: HashMap::from_iter([
+    (Level::Expert,     vec!["rs", "py"]),
+    (Level::Proficient, vec!["c", "cpp", "ts"]),
+    (Level::Familiar,   vec!["go", "java", "kt", "sql"]),
+  ])
 }).await?
 ```
 
