@@ -40,20 +40,3 @@
 
 
 
-# `kompl3xpr.repos`
-<div align="center">
-
-<!-- <br>
-<div align="center">
-  <a href="https://github.com/kompl3xpr/run_ruby_bot" title="run_ruby_bot">
-    <img height="115" width="427" src="https://github-readme-stats.vercel.app/api/pin/?username=kompl3xpr&repo=run_ruby_bot&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/kompl3xpr/wmonitor" title="Data Structures">
-    <img height="115" width="427" src="https://github-readme-stats.vercel.app/api/pin/?username=kompl3xpr&repo=wmonitor&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br> -->
-
-[`kompl3xpr.repos.show_more()`](https://github.com/zumrudu-anka?tab=repositories)
-
-</div>
