@@ -20,7 +20,7 @@ show(ctx, AboutMe {
 
 ## `me.stats`
 <details>
-<summary>CLICK TO EXPAND</summary>
+<summary><code>me.stats.expand()</code></summary>
 <table width=100% border="0" cellspacing="0" cellpadding="0">
     <tr></tr>
     <tr>
@@ -55,9 +55,9 @@ show(ctx, AboutMe {
     <img height="115" width="427" src="https://github-readme-stats.vercel.app/api/pin/?username=kompl3xpr&repo=wmonitor&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
+</div>
 <br> -->
+
 
 [`me.repos.show_more()`](https://github.com/kompl3xpr?tab=repositories)
 
-
-</div>
