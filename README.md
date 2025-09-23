@@ -5,10 +5,10 @@
 ## `me.about`
 ```rust
 show(ctx, AboutMe {
-  name:    String::new("kompl3xpr"),
+  name:    SmolStr::new("kompl3xpr"),
   age:     Utc::now().year() - 2001,
-  bio:     "Back-End Developer",
-  company: find_job().await,
+  bio:     "Back-End Developer".to_owned(),
+  company: me.find_job().await,
 }).await?
 ```
 
