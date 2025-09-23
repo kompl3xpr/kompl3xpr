@@ -4,7 +4,7 @@
 
 ## `me.about`
 ```rust
-<GitHubProfile as Profile>::show(ctx, models::AboutMe {
+show(ctx, AboutMe {
   username: String::new("kompl3xpr"),
   age: Utc::now().year() - 2001,
   description: "🚀 Back-End Developer",
