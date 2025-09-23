@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=900&size=60&duration=2000&pause=0000&color=A5A701&vCenter=true&multiline=true&width=600&height=240&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E7%9A%84%E5%B0%8F%E7%8B%97%E5%8F%AB;Yozora%E3%80%82%E5%A5%B9%E5%BE%88%E4%B9%96%EF%BC%8C%E4%BD%A0;%E5%8F%AF%E4%BB%A5%E6%91%B8%E6%91%B8%E5%A5%B9%E7%9A%84%E9%A0%AD%E3%80%82" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=900&size=60&duration=2000&pause=0000&color=A7A301&vCenter=true&multiline=true&width=600&height=240&lines=%E6%88%91%E9%A3%BC%E4%BA%86%E9%9A%BB%E7%8B%97%E5%9B%9D%E5%8F%AB%E4%BD%9C;%E3%82%88%E3%81%9E%E3%82%89%E3%80%82%E4%BC%8A%E6%9C%83%E5%A5%BD%E6%83%9C%EF%BC%8C;%E6%81%81%E5%8F%AF%E4%BB%A5%E6%91%B8%E4%B8%8B%E4%BC%8A%E4%BA%93%E9%A0%AD%E3%80%82" alt="Typing SVG" />
 </div>
 
 ## `me.about`
