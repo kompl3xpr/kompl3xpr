@@ -55,7 +55,7 @@
 </div>
 <br> -->
 
-[`kompl3xpr.repos.show_more()`](https://github.com/zumrudu-anka?tab=repositories)
+[`me.repos.show_more()`](https://github.com/kompl3xpr?tab=repositories)
 
 
 </div>
