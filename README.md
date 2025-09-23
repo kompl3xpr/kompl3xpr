@@ -9,7 +9,6 @@ show(ctx, AboutMe {
   age:     Utc::now().year() - 2001,
   bio:     "Back-End Developer",
   company: find_job().await,
-  ..Default::default()
 }).await?
 ```
 
