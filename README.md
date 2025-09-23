@@ -20,16 +20,23 @@
 
 # `kompl3xpr.stats`
 
-<div align="center">
-<a href="https://github.com/kompl3xpr/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kompl3xpr&theme=react" />
-</a> 
-<a href="https://github.com/kompl3xpr/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kompl3xpr&layout=donut&langs_count=8&card_width=320&theme=react" />
-</a>
-<br><br>
-<img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=kompl3xpr&theme=react-dark&bg_color=20232a&hide_border=true"/>
-</div>
+<table width=100% border="0" cellspacing="0" cellpadding="0" style="background-color: #20232a">
+    <tr height=200>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=kompl3xpr&theme=react&hide_border=true" />
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kompl3xpr&layout=donut&langs_count=8&theme=react&hide_border=true" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=kompl3xpr&theme=react-dark&bg_color=20232a&hide_border=true"/>
+        </td>
+    </tr>
+</table>
+
+
 
 # `kompl3xpr.repos`
 <div align="center">
