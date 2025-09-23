@@ -20,15 +20,17 @@
 
 # `kompl3xpr.stats`
 
-<table width=100% border="0" cellspacing="0" cellpadding="0" style="background-color: #20232a">
-    <tr height=200>
+<table width=100% border="0" cellspacing="0" cellpadding="0">
+    <tr></tr>
+    <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=kompl3xpr&theme=react&hide_border=true" />
+            <img width=100% height=100% src="https://github-readme-stats.vercel.app/api?username=kompl3xpr&theme=react&hide_border=true" />
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kompl3xpr&layout=donut&langs_count=8&theme=react&hide_border=true" />
+            <img width=100% height=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=kompl3xpr&layout=donut&langs_count=8&theme=react&hide_border=true" />
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td colspan="2">
             <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=kompl3xpr&theme=react-dark&bg_color=20232a&hide_border=true"/>
