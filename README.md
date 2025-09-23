@@ -5,10 +5,11 @@
 ## `me.about`
 ```rust
 show(ctx, AboutMe {
-  username: String::new("kompl3xpr"),
-  age: Utc::now().year() - 2001,
-  description: "🚀 Back-End Developer",
+  name:    String::new("kompl3xpr"),
+  age:     Utc::now().year() - 2001,
+  bio:     "Back-End Developer",
   company: find_job().await,
+  ..Default::default()
 }).await?
 ```
 
