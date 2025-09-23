@@ -44,9 +44,8 @@ show(ctx, AboutMe {
 
 ## `me.repos`
 
-<div align="center">
-
 <!-- <br>
+<div align="center">
 <div align="center">
   <a href="https://github.com/kompl3xpr/run_ruby_bot" title="run_ruby_bot">
     <img height="115" width="427" src="https://github-readme-stats.vercel.app/api/pin/?username=kompl3xpr&repo=run_ruby_bot&theme=react&border_color=61dafb&border_radius=10">
