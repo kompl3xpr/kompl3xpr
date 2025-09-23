@@ -8,7 +8,7 @@
   username: String::new("kompl3xpr"),
   age: Utc::now().year() - 2001,
   description: "🚀 Back-End Developer",
-  company: find_job().await.unwrap(),
+  company: find_job().await,
 }).await?
 ```
 
