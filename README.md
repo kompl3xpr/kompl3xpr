@@ -57,6 +57,4 @@ show(ctx, AboutMe {
 </div>
 <br> -->
 
-
-[`me.repos.show_more()`](https://github.com/kompl3xpr?tab=repositories)
-
+<a href="https://github.com/kompl3xpr?tab=repositories" style="text-decoration: none;"><code>me.repos.more()</code></a>
