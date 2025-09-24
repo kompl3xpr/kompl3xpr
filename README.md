@@ -18,7 +18,7 @@ show(ctx, AboutMe {
 
 <a href="####">
   
-![TechStacks](https://skillicons.dev/icons?i=rust,cpp,qt,python,html,css,ts,vite,kotlin,go,godot,bevy,neovim,bots,sqlite,postgresql,arch,ubuntu,debian,docker,nginx,markdown,ps,blender&perline=12)
+![TechStacks](https://skillicons.dev/icons?i=rust,cpp,python,html,css,js,ts,vite,kotlin,go,godot,bevy,docker,nginx,markdown,neovim,bots,qt,postgresql,arch,redhat,debian,ps,blender&perline=12)
 
 </a>
 </div>
