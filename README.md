@@ -13,8 +13,10 @@ show(ctx, AboutMe {
 ```
 
 <div align="center">
+  
+<em>Here is a list of numerous technologies I have come across, but it does not imply any level of knowledge, proficiency, or availability.</em>
 
-![TechStacks](https://skillicons.dev/icons?i=rust,cpp,qt,python,ts,kotlin,go,neovim,postgresql,arch,docker,nginx)
+![TechStacks](https://skillicons.dev/icons?i=rust,cpp,qt,python,html,css,ts,vite,kotlin,go,godot,bevy,neovim,bots,sqlite,postgresql,arch,ubuntu,debian,docker,nginx,markdown,ps,blender&perline=12)
 
 </div>
 
