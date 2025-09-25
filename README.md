@@ -1,5 +1,5 @@
 <div align="center">
-<a href="####"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=900&size=60&duration=2000&pause=0000&color=A7A301&vCenter=true&multiline=true&width=600&height=240&lines=%E6%88%91%E9%A3%BC%E4%BA%86%E9%9A%BB%E7%8B%97%E5%9B%9D%E5%8F%AB%E4%BD%9C;%E3%82%88%E3%81%9E%E3%82%89%E3%80%82%E4%BC%8A%E6%9C%83%E5%A5%BD%E6%83%9C%EF%BC%8C;%E6%81%81%E5%8F%AF%E4%BB%A5%E6%91%B8%E4%B8%8B%E4%BC%8A%E4%BA%93%E9%A0%AD%E3%80%82" alt="Typing SVG" /></a>
+<a href="####"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&duration=2000&pause=200&color=A7A301&vCenter=true&multiline=true&width=800&height=150&separator=%3C&lines=%60%60%60rust%3Clet+p+%3D+everyone.all(Person%3A%3Acan_degenerate);%3Cassert!(!LIBERTY+%7C%7C+p);%3C%60%60%60" alt="Typing SVG" /></a>
 </div>
 
 ## `me.about`
