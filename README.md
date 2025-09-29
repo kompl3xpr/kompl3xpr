@@ -34,7 +34,7 @@ show(ctx, AboutMe {
             <a href="####"><img width=100% height=100% src="https://github-readme-stats.vercel.app/api?username=kompl3xpr&theme=transparent&hide_border=true" /></a>
         </td>
         <td>
-            <a href="####"><img width=100% height=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=kompl3xpr&layout=donut&langs_count=8&theme=transparent&hide_border=true" /></a>
+            <a href="####"><img width=100% height=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=kompl3xpr&layout=compact&langs_count=8&theme=transparent&hide_border=true" /></a>
         </td>
     </tr>
     <tr></tr>
