@@ -26,7 +26,7 @@ show(ctx, AboutMe {
 
 ## `me.stats`
 <details>
-<summary><a href="####"><code>me.stats.expand()</code></a></summary>
+<summary><code>me.stats.expand()</code></summary>
 <br />
 <table width=100% border="0" cellspacing="0" cellpadding="0">
     <tr>
