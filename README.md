@@ -1,5 +1,6 @@
 <div align="center">
 <a href="####"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&duration=2000&pause=200&color=A7A301&vCenter=true&multiline=true&width=800&height=150&separator=%3C&lines=%60%60%60rust%3Clet+p+%3D+everyone.all(Person%3A%3Acan_degenerate);%3Cassert!(!LIBERTY+%7C%7C+p);%3C%60%60%60" alt="Typing SVG" /></a>
+<a href="####"><img src="https://count.getloli.com/@kompl3xpr?name=kompl3xpr&theme=capoo-1&padding=8&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" /></a>
 </div>
 
 ## `me.about`
@@ -24,8 +25,7 @@ show(ctx, AboutMe {
 </div>
 
 ## `me.stats`
-<details>
-<summary><code>me.stats.expand()</code></summary>
+
 <table width=100% border="0" cellspacing="0" cellpadding="0">
     <tr></tr>
     <tr>
@@ -44,16 +44,19 @@ show(ctx, AboutMe {
     </tr>
 </table>
 <a href="####">
-  
-![svg](profile-3d-contrib/profile-night-rainbow.svg)
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+        <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+    </picture>
+</div>
 
 </a>
-</details>
-
 ## `me.repos`
 
 <!-- <br>
-<div align="center">
 <div align="center">
   <a href="https://github.com/kompl3xpr/run_ruby_bot" title="run_ruby_bot">
     <img height="115" width="427" src="https://github-readme-stats.vercel.app/api/pin/?username=kompl3xpr&repo=run_ruby_bot&theme=react&border_color=61dafb&border_radius=10">
@@ -61,7 +64,6 @@ show(ctx, AboutMe {
   <a href="https://github.com/kompl3xpr/wmonitor" title="Data Structures">
     <img height="115" width="427" src="https://github-readme-stats.vercel.app/api/pin/?username=kompl3xpr&repo=wmonitor&theme=react&border_color=61dafb&border_radius=10">
   </a>
-</div>
 </div>
 <br> -->
 
