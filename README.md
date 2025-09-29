@@ -27,31 +27,35 @@ show(ctx, AboutMe {
 ## `me.stats`
 
 <table width=100% border="0" cellspacing="0" cellpadding="0">
-    <tr></tr>
     <tr>
         <td>
-            <a href="####"><img width=100% height=100% src="https://github-readme-stats.vercel.app/api?username=kompl3xpr&theme=react&hide_border=true" /></a>
+            <a href="####"><img width=100% height=100% src="https://github-readme-stats.vercel.app/api?username=kompl3xpr&theme=transparent&hide_border=true" /></a>
         </td>
         <td>
-            <a href="####"><img width=100% height=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=kompl3xpr&layout=donut&langs_count=8&theme=react&hide_border=true" /></a>
+            <a href="####"><img width=100% height=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=kompl3xpr&layout=donut&langs_count=8&theme=transparent&hide_border=true" /></a>
         </td>
     </tr>
     <tr></tr>
     <tr>
         <td colspan="2">
-            <a href="####"><img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=kompl3xpr&theme=react-dark&bg_color=20232a&hide_border=true"/></a>
+            <a href="####"><img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=kompl3xpr&theme=transparent&bg_color=00000000&hide_border=true"/></a>
+        </td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td colspan="2">
+            <a href="####">
+                  <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+                    <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+                </picture>
+            </a>
         </td>
     </tr>
 </table>
 <a href="####">
 
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-        <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
-    </picture>
-</div>
 
 </a>
 
