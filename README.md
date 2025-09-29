@@ -25,7 +25,9 @@ show(ctx, AboutMe {
 </div>
 
 ## `me.stats`
-
+<details>
+<summary><a href="####"><code>me.stats.expand()</code></a></summary>
+<br />
 <table width=100% border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td>
@@ -54,10 +56,7 @@ show(ctx, AboutMe {
         </td>
     </tr>
 </table>
-<a href="####">
-
-
-</a>
+</details>
 
 ## `me.repos`
 
@@ -71,5 +70,4 @@ show(ctx, AboutMe {
   </a>
 </div>
 <br> -->
-
-<a href="https://github.com/kompl3xpr?tab=repositories" style="text-decoration: none;"><code>me.repos.more()</code></a>
+<a href="https://github.com/kompl3xpr?tab=repositories"><code>me.repos.more()</code></a>
