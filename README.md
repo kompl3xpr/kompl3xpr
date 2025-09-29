@@ -1,5 +1,6 @@
 <div align="center">
 <a href="####"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&duration=2000&pause=200&color=A7A301&vCenter=true&multiline=true&width=800&height=150&separator=%3C&lines=%60%60%60rust%3Clet+p+%3D+everyone.all(Person%3A%3Acan_degenerate);%3Cassert!(!LIBERTY+%7C%7C+p);%3C%60%60%60" alt="Typing SVG" /></a>
+<br><br>
 <a href="####"><img src="https://count.getloli.com/@kompl3xpr?name=kompl3xpr&theme=capoo-1&padding=8&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" /></a>
 </div>
 
