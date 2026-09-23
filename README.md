@@ -32,16 +32,16 @@ show(ctx, AboutMe {
 <table width=100% border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td>
-            <a href="####"><img width=100% height=100% src="https://github-readme-stats.vercel.app/api?username=kompl3xpr&theme=transparent&hide_border=true" /></a>
+            <a href="####"><img width=100% height=100% src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kompl3xpr&theme=transparent&hide_border=true" /></a>
         </td>
         <td>
-            <a href="####"><img width=100% height=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=kompl3xpr&layout=compact&langs_count=8&theme=transparent&hide_border=true" /></a>
+            <a href="####"><img width=100% height=100% src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=kompl3xpr&layout=compact&langs_count=8&theme=transparent&hide_border=true" /></a>
         </td>
     </tr>
     <tr></tr>
     <tr>
         <td colspan="2">
-            <a href="####"><img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=kompl3xpr&theme=transparent&bg_color=00000000&hide_border=true"/></a>
+            <a href="####"><img width=100% src="https://github-activity-graph.vercel.app/graph?username=kompl3xpr&theme=transparent&bg_color=00000000&hide_border=true"/></a>
         </td>
     </tr>
     <tr></tr>
