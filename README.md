@@ -32,10 +32,20 @@ show(ctx, AboutMe {
 <table width=100% border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td>
-            <a href="####"><img width=100% height=100% src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kompl3xpr&theme=transparent&hide_border=true" /></a>
+            <a href="####">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kompl3xpr&theme=transparent&hide_border=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=00000000" />
+                    <img width=100% height=100% src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kompl3xpr&theme=transparent&hide_border=true&text_color=000000&title_color=000000&icon_color=000000&bg_color=00000000" alt="GitHub stats" />
+                </picture>
+            </a>
         </td>
         <td>
-            <a href="####"><img width=100% height=100% src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=kompl3xpr&layout=compact&langs_count=8&theme=transparent&hide_border=true" /></a>
+            <a href="####">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=kompl3xpr&layout=compact&langs_count=8&theme=transparent&hide_border=true&text_color=ffffff&title_color=ffffff&bg_color=00000000" />
+                    <img width=100% height=100% src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=kompl3xpr&layout=compact&langs_count=8&theme=transparent&hide_border=true&text_color=000000&title_color=000000&bg_color=00000000" alt="Top languages" />
+                </picture>
+            </a>
         </td>
     </tr>
     <tr></tr>
